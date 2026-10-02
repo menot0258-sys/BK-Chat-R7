@@ -1,0 +1,6 @@
+{
+  "name": "BK Chat - Google Gemini Edition",
+  "description": "Smart AI assistant with Google Drive & Gmail integration, code execution canvas, Jarvis HUD mode, and code download tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
